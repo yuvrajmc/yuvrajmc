@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvrajmc
+- 👋 Hi, I’m Yuvraj Manikrao
 - 👀 I’m interested in Python, Datascience
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python GUI tools PyQt5, tkinter
